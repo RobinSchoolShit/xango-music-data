@@ -1,0 +1,173 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "artist": "Astori Amsterdam",
+        "title": "Verhalen uit Buenos Aires",
+        "country": "Netherlands",
+        "genre": "Tango",
+        "price": "14,50"
+      },
+      {
+        "id": 2,
+        "artist": "Accardi, Fabio",
+        "title": "Breathe",
+        "country": "Italy",
+        "genre": "Jazz",
+        "price": "12,00"
+      },
+      {
+        "id": 3,
+        "artist": "Barana",
+        "title": "Elektro Shaman",
+        "country": "Netherlands",
+        "genre": "Jazz",
+        "price": "14,50"
+      },
+      {
+        "id": 4,
+        "artist": "Davidson, Helena",
+        "title": "Aldrig Lika Konstig Och Ensam Igen",
+        "country": "Sweden",
+        "genre": "Popular Music",
+        "price": "14,50"
+      },
+      {
+        "id": 5,
+        "artist": "Mette Kathrine",
+        "title": "Familiealbum",
+        "country": "Denmark",
+        "genre": "Folk",
+        "price": "17,00"
+      },
+      {
+        "id": 6,
+        "artist": "Susanna",
+        "title": "Susanna",
+        "country": "Finland",
+        "genre": "Popular Music",
+        "price": "14,00"
+      },
+      {
+        "id": 7,
+        "artist": "Alibi, Imed feat. Khalil Hentati",
+        "title": "Frigya (LP)",
+        "country": "Tunisia",
+        "genre": "Popular Music",
+        "price": "18,00"
+      },
+      {
+        "id": 8,
+        "artist": "Tariqua 'Alawiya, The",
+        "title": "The 'Imara - The Dance Of The Stars (LP)",
+        "country": "Algeria",
+        "genre": "Traditional",
+        "price": "27,50"
+      },
+      {
+        "id": 9,
+        "artist": "Savage Republic",
+        "title": "Meteora",
+        "country": "USA",
+        "genre": "Rock/Pop",
+        "price": "15,00"
+      },
+      {
+        "id": 10,
+        "artist": "Guedon, Henri",
+        "title": "Karma",
+        "country": "Antilles (French)",
+        "genre": "Popular Music",
+        "price": "19,50"
+      },
+      {
+        "id": 11,
+        "artist": "Chaoui, Hocine",
+        "title": "Ouechesma (LP)",
+        "country": "Algeria",
+        "genre": "Popular Music",
+        "price": "27,50"
+      },
+      {
+        "id": 12,
+        "artist": "Kuunatic",
+        "title": "Gate of Kluna",
+        "country": "Japan",
+        "genre": "Fusion",
+        "price": "15,00"
+      },
+      {
+        "id": 13,
+        "artist": "Jiha, Park",
+        "title": "The Gleam",
+        "country": "South Korea",
+        "genre": "Avantgarde",
+        "price": "15,00"
+      },
+      {
+        "id": 14,
+        "artist": "Lampos, Dimitris",
+        "title": "Exegersi",
+        "country": "Greece",
+        "genre": "BLUES",
+        "price": "14,00"
+      },
+      {
+        "id": 15,
+        "artist": "Spoelberch, Isabelle de",
+        "title": "Appel A La Source (2CD)",
+        "country": "Belgium",
+        "genre": "Folk",
+        "price": "18,50"
+      },
+      {
+        "id": 16,
+        "artist": "Kompozyt",
+        "title": "Spells",
+        "country": "Poland",
+        "genre": "DUB-REGGAE",
+        "price": "14,00"
+      },
+      {
+        "id": 17,
+        "artist": "Bixiga 70",
+        "title": "Bixiga 70",
+        "country": "Brazil",
+        "genre": "Popular Music",
+        "price": "19,50"
+      },
+      {
+        "id": 18,
+        "artist": "Kone, Kalifa",
+        "title": "Luna",
+        "country": "Mali",
+        "genre": "Popular Music",
+        "price": "14,00"
+      },
+      {
+        "id": 19,
+        "artist": "Ogun Afrobeat",
+        "title": "Unite",
+        "country": "Spain",
+        "genre": "Popular Music",
+        "price": "14,00"
+      },
+      {
+        "id": 20,
+        "artist": "Salgueiro, Goncalo",
+        "title": "Segue A Minha Voz",
+        "country": "Portugal",
+        "genre": "FADO",
+        "price": "12,00"
+      },
+      {
+        "id": 21,
+        "artist": "Mienniel, Joce & Aram Lee",
+        "title": "Wood & Steel",
+        "country": "France",
+        "genre": "Fusion",
+        "price": "16,50"
+      }
+    ]
+  }
+  
